@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import aboutPortrait from "@/assets/about-portrait.jpeg";
+import aboutPortrait from "@/assets/about-potrait.jpeg";
 
 const stats = [
   { value: "150+", label: "Projects" },
